@@ -1,3 +1,5 @@
 #+TITLE: Where it all started :>
 
 My solutions to the exercices from "Automate the Boring Stuff with Python", the first programming book I ever read, during the COVID quarantine.
+
+I should probably take the time to do the rest, someday...
